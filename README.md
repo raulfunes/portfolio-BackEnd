@@ -1,5 +1,5 @@
-Portafolio personal de Raul Funes
+<h1>Portafolio personal de Raul Funes</h1>
 
-Parte BackEmd
+Parte BackEnd
 
 Realizado como trabajo integrador del curso #YoProgramo 2022-2023

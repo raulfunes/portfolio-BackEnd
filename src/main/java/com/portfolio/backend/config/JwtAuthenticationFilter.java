@@ -25,7 +25,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
  */
 
 @Component
-@CrossOrigin(origins = "http://localhost:4200/") 
+@CrossOrigin
 public class JwtAuthenticationFilter extends OncePerRequestFilter{
 
     @Autowired

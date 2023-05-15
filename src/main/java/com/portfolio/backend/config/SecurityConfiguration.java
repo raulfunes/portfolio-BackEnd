@@ -28,7 +28,7 @@ import org.springframework.web.cors.reactive.CorsWebFilter;
 
 @Configuration
 @EnableWebSecurity
-@CrossOrigin(origins = "http://localhost:4200/") 
+@CrossOrigin 
 public class SecurityConfiguration {
     
     @Autowired
